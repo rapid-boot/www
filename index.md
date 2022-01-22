@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+rapid-boot 是一个快速开发框架，聚焦电商领域，to c，导购交易基本模型抽象；to b，运营配置生成。
+
+基于行业最佳实践，开箱即用。
+
+[] to b 后台生成
+[] to c 领域模型建设
+[] 跑一个 demo（电商平台）
+
 You can use the [editor on GitHub](https://github.com/rapid-boot/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
